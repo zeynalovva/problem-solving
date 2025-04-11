@@ -1,6 +1,6 @@
-package com.zeynalovv.leetcode;
+package com.zeynalovv.leetcode.DP;
 
-class Solution {
+class MinCostClimbingStairs {
     public int minCostClimbingStairs(int[] cost) {
         int sum = 0, n = cost.length;
         int[] arr = new int[n+1];
