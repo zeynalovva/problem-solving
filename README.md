@@ -1,6 +1,6 @@
 # Leetcode problems and their solutions
- 
-This repo has been created for the LeetCode problems and how they are solved in Java and C++ from my perspective.
+
+This repository has been created to share LeetCode problems and how I solve them in Java and C++.
 
 - Dynamic Programming
 - Depth-first Search
