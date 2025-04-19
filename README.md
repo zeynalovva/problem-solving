@@ -4,3 +4,4 @@ This repository has been created to share LeetCode problems and how I solve them
 
 - Dynamic Programming
 - Depth-first Search
+- Binary Tree
