@@ -1,5 +1,5 @@
 package com.zeynalovv.leetcode.DataStructures.LinkedList;
-
+//
 class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode list = null, negro = null;
